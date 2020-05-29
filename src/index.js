@@ -3,3 +3,7 @@ const greet = (name) => {
 }
 
 greet("Shaun")
+
+import { domGreet } from "./dom.js"
+
+domGreet()

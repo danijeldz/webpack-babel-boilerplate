@@ -1,1 +1,5 @@
-console.log("Greetings from le dom!")
+const domGreet = () => {
+  console.log("Greetings from le dom!")
+}
+
+export { domGreet }
